@@ -28,12 +28,12 @@ return 0;
 ```
 ## OUTPUT:
 
-
+```
 Enter first character: A
 Enter second character: B
 Enter third character: C
 Characters in reverse order: C B A
-
+```
 
 
 
@@ -57,7 +57,7 @@ Write a C program to read A values and check whether A is positive number or not
 6.End the program.
 
 # PROGRAM:
-
+```
 #include <stdio.h>
 
 int main() {
@@ -76,13 +76,15 @@ int main() {
 
     return 0;
 }
+```
 
 # OUTPUT:
-
+```
 Enter a number: 5
 A is a positive number.
 Enter a number: -3
 A is not a positive number.
+```
 
 
 
@@ -108,7 +110,7 @@ Write a program to find minimum between two fraction numbers using conditional o
 7.	Print the minimum value.
 
 ## PROGRAM:
-
+```
 #include <stdio.h>
 
 int main() {
@@ -129,14 +131,17 @@ int main() {
 
     return 0;
 }
+```
 
 ## OUTPUT:
+```
 
 Enter numerator of first fraction: 3
 Enter denominator of first fraction: 4
 Enter numerator of second fraction: 5
 Enter denominator of second fraction: 8
 The minimum value between the two fractions is: 0.62
+```
 
 
 
@@ -160,7 +165,7 @@ Write a C program to check whether the input value is equal to 1 using simple if
 6.	End the program.
 
 ## PROGRAM:
-
+```
 #include <stdio.h>
 
 int main() {
@@ -175,14 +180,14 @@ int main() {
 
     return 0;
 }
-
+```
 ## OUTPUT:
-
+```
 Enter a value: 1
 The input value is equal to 1.
 Enter a value: 5
 The input value is not equal to 1.
-	
+```
 
 ## RESULT:
 Thus the program to check whether the input value is equal to 1 using simple if statement has been executed successfully
@@ -207,7 +212,7 @@ c.	Else if percentage >= 36: Print “Division = Pass”
 9.	Else: Print “Division = Fail”
 10.	End
 ## PROGRAM:
-
+```
 #include <stdio.h>
 
 int main() {
@@ -241,15 +246,17 @@ int main() {
 
     return 0;
 }
+```
 
 ## OUTPUT:
-
+```
 Enter marks for subject 1: 70
 Enter marks for subject 2: 65
 Enter marks for subject 3: 60
 Total Marks = 195.00
 Percentage = 65.00%
 Division = First
+```
 
 
 ## RESULT:
